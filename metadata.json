@@ -1,0 +1,8 @@
+{
+  "name": "ScaleDown Genomic Research Assistant",
+  "description": "A high-throughput bioinformatics discovery engine focusing on semantic genomic compression, multi-omics synthesis, and hypothesis generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
